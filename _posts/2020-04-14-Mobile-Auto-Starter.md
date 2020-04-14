@@ -2,6 +2,7 @@
 layout: post
 title: "Mobile Auto Starter"
 featured-img:
+categories: [Product]
 ---
 
 This innovative product can be a boon to a whole community of farmers and agriculturists. It is uniquely designed to monitor remotely located pumps and motors. This saves a lot of time and energy for farmers, agriculturists and industries. They can switch ON and switch OFF the motor pumps from their homes or anywhere by using this mobile application. This mobile app will provide an easy to understand interface with the following benefits:
