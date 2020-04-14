@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "About Raytech"
+featured-img: x
 ---
 
 **About Ray Technologies:**
