@@ -9,8 +9,11 @@ permalink: /contact/
 402 Aparna Niwas,
 Behind Tungareshwar Sweets,
 Near Vasai Station,
+
 Vasai (West).
-Dist. Palghar 401202
+Palghar 401202
+
+Maharashtra, India
 
 
 
